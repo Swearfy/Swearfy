@@ -1,7 +1,7 @@
 <h1> Helo 🦊 I try to code</h1>
 </br>
 
-<h3>Programming langueges and Tools</h3>
+<h3>Programming languages and Tools</h3>
 </br>
 <p>
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
